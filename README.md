@@ -1,2 +1,5 @@
-# Landing-Page-Project-HTML-
-blank Html landing Page that can be used for multiple projects
+# Renoir Restaurant
+This is the front-end for a local restaurant, Renoir.
+
+## Content 
+TBD
